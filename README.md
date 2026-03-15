@@ -14,7 +14,7 @@ a dark, customizable discord theme.
 
 ### Vencord/Betterdiscord (or any client that supports theme files)
 
-1. download the theme file, [`midnight.theme.css`](https://github.com/zainbhervaniangola-design/midnight-discord/blob/main/README.md). (there should be a download button at the top right of the page)
+1. download the theme file, [`midnight.theme.css`](https://github.com/zainbhervaniangola-design/midnight-discord/blob/main/themes/midnight.theme.css). (there should be a download button at the top right of the page)
 2. drag the file into your theme folder. (there should be a button to open the theme folder in theme settings)
 3. (optional) customize the theme by editing the options in `midnight.theme.css`.
 
